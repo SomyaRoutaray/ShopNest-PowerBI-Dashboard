@@ -84,8 +84,8 @@ Here’s how the repository is organized:
 ---
 
 ## 📫 Connect with Me
-- 💼 **LinkedIn:** [Somya Routaray](https://www.linkedin.com/in/somya-routaray-3b0759217/)  
-- 🐙 **GitHub:** [Somya Routaray GitHub](https://github.com/somyaroutaray)  
+- 💼 **LinkedIn:**https://www.linkedin.com/in/somya-routaray-3b0759217/
+- 🐙 **GitHub:**https://github.com/SomyaRoutaray
 - 📧 **Email:** somyaroutaray1@gmail.com  
 
 ---
