@@ -1,7 +1,7 @@
-# 🏪 ShopNest Retail Power BI Dashboard  
+# 🏪  
 
 ## 📖 Project Overview  
-The **ShopNest Retail Dashboard** is an end-to-end **Power BI project** designed to analyze retail performance and optimize decision-making.  
+The **Retail Dashboard** is an end-to-end **Power BI project** designed to analyze retail performance and optimize decision-making.  
 It tracks **8 key KPIs**, providing real-time insights into **sales, revenue, customers, and store performance**.  
 
 💡 **Impact:** Improved leadership decision-making by **30%** and reduced manual reporting time by **40%**, enabling faster, data-driven strategies.
@@ -23,7 +23,7 @@ Retail companies often struggle to **consolidate fragmented datasets**, leading 
 - Time-consuming **manual reporting**  
 - Difficulty in tracking **customer trends** and **regional growth**
 
-The ShopNest Dashboard addresses these challenges by delivering a **centralized, interactive solution** for real-time performance tracking.
+The  Dashboard addresses these challenges by delivering a **centralized, interactive solution** for real-time performance tracking.
 
 ---
 
