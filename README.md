@@ -1,4 +1,4 @@
-# 🏪  
+# 🏪  Retail Analytics Dashboard
 
 ## 📖 Project Overview  
 The **Retail Dashboard** is an end-to-end **Power BI project** designed to analyze retail performance and optimize decision-making.  
